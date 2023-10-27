@@ -13,3 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### News
+
+I would like to share my [apology to Eli Grey](https://addyosmani.com/an-apology-to-eli/). Please do consider reading it.
