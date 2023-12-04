@@ -14,6 +14,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### News
-
-I would like to share my [apology to Eli Grey](https://addyosmani.com/an-apology-to-eli/). Please do consider reading it.
