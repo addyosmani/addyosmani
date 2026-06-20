@@ -1,4 +1,4 @@
-- 🔭 I’m currently working on AI at Google (Gemini, Agents, Vertex)
+- 🔭 I was most recently working on AI at Google (Gemini, Agents, Vertex)
 - 👯 I’m looking to collaborate on Developer Tooling
 - 🤔 I’m looking for help with Framework collaborations
 - 💬 Ask me about anything
