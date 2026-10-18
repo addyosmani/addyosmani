@@ -1,4 +1,4 @@
-- 🔭 I was most recently working on AI at Google (Gemini, Agents, Vertex)
+- 🔭 Member of Technical Staff, Anthropic
 - 👯 I’m looking to collaborate on Developer Tooling
 - 🤔 I’m looking for help with Framework collaborations
 - 💬 Ask me about anything
